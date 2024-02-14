@@ -1,6 +1,11 @@
 # Nahuel Bravo
 ## Estudiante de Matematicas y programador autodidacta
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,html,css,typescript,java" />
+  </a>
+</p>
 <!--
 **NahuelBravo/NahuelBravo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
