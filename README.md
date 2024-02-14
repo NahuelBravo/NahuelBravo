@@ -1,5 +1,5 @@
 ### Nahuel Bravo
-## Estudiante de Matematicas y programador autodidacta
+### Estudiante de Matematicas y programador autodidacta
 
 <!--
 **NahuelBravo/NahuelBravo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
