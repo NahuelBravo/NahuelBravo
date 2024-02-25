@@ -6,7 +6,7 @@
     <img src="https://skillicons.dev/icons?i=python,html,css,typescript,angular" />
   </a>
 </p>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+<img src="[https://skillicons.dev/icons?i=python,html,css,typescript,angular](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)" />
 <!--
 **NahuelBravo/NahuelBravo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
