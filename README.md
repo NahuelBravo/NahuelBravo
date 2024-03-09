@@ -16,15 +16,6 @@
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-
-
-
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,html,css,typescript,angular" />
-  </a>
-</p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahuelbravo&size_weight=0.5&count_weight=0.5" />
 <!--
 **NahuelBravo/NahuelBravo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
