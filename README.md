@@ -1,5 +1,6 @@
 # Nahuel Bravo
-## Estudiante de Matematicas y programador autodidacta
+## Actualmente cursando Profesorado de Educacion Secundaria en Matematica
+## Programador Autodidacta
 
 <p align="center">
   <a href="https://skillicons.dev">
