@@ -2,6 +2,8 @@
 ## Actualmente cursando Profesorado de Educacion Secundaria en Matematica
 ## Programador Autodidacta
 
+
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,html,css,typescript,angular" />
