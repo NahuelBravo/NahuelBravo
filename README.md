@@ -3,10 +3,10 @@
 ## Programador Autodidacta
 ### Proyectos
 
-<a href="https://nahuelbravo.vercel.app/">Portfolio<a/>
+<a href="https://nahuelbravo.vercel.app/" target="_blank">Portfolio<a/>
 
 
-
+### Tecnologias
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
