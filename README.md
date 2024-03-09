@@ -1,5 +1,5 @@
 # Nahuel Bravo
-## Actualmente cursando Profesorado de Educacion Secundaria en Matematica
+## Cursando Profesorado de Educacion Secundaria en Matematica
 ## Programador Autodidacta
 ### Proyectos
 
