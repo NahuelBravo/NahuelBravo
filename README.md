@@ -3,7 +3,7 @@
 ## Programador Autodidacta
 ### Proyectos
 
-<a href="https://nahuelbravo.vercel.app/" target="_blank">Portfolio<a/>
+<a href="https://nahuelbravo.vercel.app/">Portfolio<a/>
 
 
 ### Tecnologias
